@@ -26,7 +26,6 @@
   - a more traditional workflow
     (no install step)
     - application server optional
-  - manage components separately if you choose
   - avoids a plethora of AS issues
 
 * Other changes
@@ -51,18 +50,12 @@
   http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html
   http://bit.ly/techemptb
 
-* Micro-benchmarks aren't important
+* Micro-benchmarks are only worth so much
 
   The benchmark that matters is the one
   with /your/ workload.
 
 * Feature demo
-  # start with gemfile
-  # web, jobs, messaging, caching, sockjs
-  # `torquebox run`
-  # `torquebox jar`
-  # `java -jar feature-demo.jar`
-  # deploy to WF cluster
 
 * SockJS <-> Messaging
 
