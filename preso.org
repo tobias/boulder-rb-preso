@@ -11,6 +11,8 @@
 
 * Ask away!
 
+  http://bit.ly/brbtb
+
 * What is TorqueBox?
 
   [[file:knob.png]]
@@ -70,7 +72,7 @@
 * Resources
 
   - self
-    https://github.com/tobias/boulder-rb-preso
+    http://bit.ly/brbtb
   - demo app
     https://github.com/torquebox/feature-demo
   - TorqueBox
